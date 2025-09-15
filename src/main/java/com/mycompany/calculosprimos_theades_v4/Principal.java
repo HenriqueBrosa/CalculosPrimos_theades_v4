@@ -6,7 +6,7 @@ package com.mycompany.calculosprimos_theades_v4;
 
 /**
  *
- * @author INTEL
+ * @author HenriqueBrosa
  */
 public class Principal {
 
